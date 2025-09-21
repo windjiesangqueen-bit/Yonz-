@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tulisan Yonz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #555;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Website Tulisan Yonz</h1>
+        <p>
+            Selamat datang di website tulisan Yonz. Ini adalah ruang di mana Anda bisa menemukan berbagai macam cerita, pemikiran, dan karya-karya lain dari Yonz.
+        </p>
+        <p>
+            Semoga Anda menikmati setiap tulisan yang ada di sini.
+        </p>
+
+        <h2>Tentang Website Ini</h2>
+        <p>
+            Website ini dibuat dengan tujuan sederhana: menjadi wadah untuk mengekspresikan ide dan pemikiran. Konten di dalamnya akan diperbarui secara berkala, jadi pastikan untuk kembali lagi!
+        </p>
+    </div>
+
+</body>
+</html>
